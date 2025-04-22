@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Capteur.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/DOMAINS.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Historique_action.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Mesure.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Seuil_critique.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Test.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Utilisateur.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/actionneurs.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/alerte.sql" dialect="PostgreSQL" />
+  </component>
+</project>
